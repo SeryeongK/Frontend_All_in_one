@@ -1,7 +1,13 @@
 # React 시작
-- [React란?](#react란)
-- [렌더링의 과정](#렌더링의-과정)
-- [리액트에 불변성이 필요한 이유](#리액트의-불변성이-필요한-이유)
+
+- [React 시작](#react-시작)
+  - [React란?](#react란)
+  - [렌더링의 과정](#렌더링의-과정)
+    - [Trigger a render(렌더링 촉발)](#trigger-a-render렌더링-촉발)
+    - [Rendering the component(컴포넌트 렌더링)](#rendering-the-component컴포넌트-렌더링)
+    - [Committing to the DOM(DOM에 커밋)](#committing-to-the-domdom에-커밋)
+  - [리액트의 불변성이 필요한 이유](#리액트의-불변성이-필요한-이유)
+    - [💡 출처](#-출처)
 
 ---
 ## <span style='background-color: #fff5b1; color: black'>React란?</span>
