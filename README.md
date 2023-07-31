@@ -9,14 +9,17 @@
 ---
 
 # Computer Science
-### 프로세스와 스레드
+## 프로세스와 스레드
 - 프로세스란?
 - 스레드란?
 - 프로세스와 스레드의 차이
-
-+)
 - 프로세스끼리 정보를 공유하는 방법
 - class, object, instance의 차이
+
+## 자료구조
+### [자료구조란?](/ComputerScience/Datatype.md)
+- 효율적으로 데이터를 관리해야 하는 이유 (예시)
+
 # JavaScript
 ### 프로그래밍
 - 프로그래밍이란?
@@ -38,15 +41,9 @@
 # HTML/CSS
 
 ## HTML
-### DOCTYPE
+### [DOCTYPE](/HTMLCSS/Doctype.md)
 - DOCTYPE이란?
+  - 왜 DOCTYPE을 문서 최상단에 적어야 할까?
+### [Meta tag](/HTMLCSS/Doctype.md)
 - meta tag란?
-- meta tag의 요소
-
-+)
-- DOCTYPE을 선언하는 이유
-- 왜 DOCTYPE을 문서 최상단에 적어야 할까?
-
-## 자료구조
-### 자료구조란?
-- 효율적으로 데이터를 관리해야 하는 이유 (예)
+  - meta tag의 요소
