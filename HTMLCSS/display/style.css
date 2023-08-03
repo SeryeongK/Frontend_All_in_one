@@ -1,0 +1,32 @@
+container {
+  width: 100%;
+  max-width: 1280px;
+  padding: 40px;
+}
+.card{
+  width: 480px;
+  padding: 40px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  border: 1px solid #eee;
+  font-weight: 100;
+  line-height: 1.5;
+}
+span {
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+}
+.card span {
+  color: white;
+  background-color: blue;
+}
+span.block {
+  display: block;
+}
+span.inline {
+  display: inline;
+}
+span.inline-block {
+  display: inline-block;
+}
