@@ -64,6 +64,19 @@
   - meta tag의 요소
 ### [span, div, p tag](/HTMLCSS/태그.md)
 - span, div, p tag의 차이점은?
+### [웹 표준과 웹 접근성](./HTMLCSS/웹표준.md)
+- 웹 표준
+  - 웹 표준이란?
+  - HTML5에서 추가된 내용이 있나요?
+  - 크로스 브라우징이란 무엇인가요?
+- 웹 접근성이란?
+  - 웹 접근성에 맞는 마크업 예시 몇가지 말해보시오
+  - 시멘틱 태그란 무엇인가 왜 사용하는가
+- 태그 관련
+  - 텍스트 관련 태그
+  - SEO란 무엇인가?
+  - Button 태그의 Default type은 무엇인가?
+  - Section 태그와 article 태그의 차이점
 
 ## CSS
 ### [Display](/HTMLCSS/디스플레이.md)
