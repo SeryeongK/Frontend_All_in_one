@@ -91,6 +91,10 @@
 
 ### [리액트를 사용하는 이유](/React/리액트를%20사용하는%20이유.md)
 
+### [함수 컴포넌트와 클래스 컴포넌트](./React/함수%20컴포넌트와%20클래스%20컴포넌트.md)
+
+
+
 # HTML/CSS
 
 ## HTML
@@ -123,6 +127,10 @@
   - SEO란 무엇인가?
   - Button 태그의 Default type은 무엇인가?
   - Section 태그와 article 태그의 차이점
+
+### [이미지](./HTMLCSS/이미지.md)
+
+### [UI](./HTMLCSS/UI.md)
 
 ## CSS
 
