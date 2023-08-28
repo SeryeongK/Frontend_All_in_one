@@ -1,9 +1,17 @@
-# Virtual DOM에 대해서 아나요?
+# Virtual DOM
+
+- [Virtual DOM에 대해서 아나요?](#virtual-dom)
+- [Virtual DOM을 구현하는 방법이 어떻게 되나요?](#howvirtual)
+- [💡출처](#출처)
+
+---
+
+## <span id="virtual-dom" style='background-color: #fff5b1; color: black'>Virtual DOM에 대해서 아나요?</span>
 
 virtual dom은 ui를 나타 낼 수 있는 dom 자체를 메모리에 가지고 있는 것이다. 이의 용도는 실제의 DOM과 비교하고 sync, 즉 동기화할 수 있게 해주는 것이다. 특히 React에서는 react elements와 관련된 개념으로 쓰이는 데, react 내에 element를 비교할 때 쓰인다.
 React는 fiber라는 internal objects로 컴포넌트를 연결 하게 되는데. 이 또한 virtual dom을 구성하는 일부분이다.
 
-# Virtual DOM을 구현하는 방법이 어떻게 되나요?
+## <span id="virtual-dom" style='background-color: #fff5b1; color: black'>Virtual DOM을 구현하는 방법이 어떻게 되나요?</span>
 
 1. 구성 및 구조
 
@@ -45,3 +53,8 @@ const a = {
    - 삭제: 존재하던 것이 없다면, 삭제한다.
    - 생성: 존재하지 않는 element가 있으면 추가해준다.
      다음과 같은 방법을 이용해서 element를 갈아 끼워준다.
+
+## <span id="출처" style='background-color: #fff5b1; color: black'>출처</span>
+
+- https://legacy.reactjs.org/docs/faq-internals.html
+- https://junghyunkim.tistory.com/entry/%EB%B2%88%EC%97%AD-Virtual-DOM-%EC%9D%B4-%EB%AD%94%EB%8D%B0-%ED%95%9C%EB%B2%88-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0
