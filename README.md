@@ -40,13 +40,20 @@
 - CORS가 뭔가요?
 - CORS를 겪고 직접 해결해 본 경험이 있으면 말해주세요
 
+### [개발 방법론](/ComputerScience/개발%20방법론.md)
+
+- 폭포수 방법론이란 뭔가요?
+- 애자일 방법론이란 뭔가요?
+- 폭포수, 애자일 방법론 차이
+
 ## 자료구조
 
 ### [자료구조란?](/ComputerScience/Datatype.md)
 
 - 효율적으로 데이터를 관리해야 하는 이유 (예시)
 
-### [IT 비지니스 유형(IaaS, PaaS, SaaS)](/ComputerScience/IT%20비지니스%20유형(IaaS,%20PaaS,%20SaaS).md)
+### [IT 비지니스 유형(IaaS, PaaS, SaaS)](</ComputerScience/IT%20비지니스%20유형(IaaS,%20PaaS,%20SaaS).md>)
+
 - IaaS
 - Paas
 - Saas
@@ -104,9 +111,6 @@
 - 생성자 함수가 객체(인스턴스)를 생성하는 과정에 대해 간략하게 설명해줄 수 있나요?
 
 ### [함수와 일급객체](/Javascript/함수와%20일급객체.md)
-
-
-
 
 # React
 
