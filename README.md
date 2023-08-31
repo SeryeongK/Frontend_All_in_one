@@ -46,6 +46,11 @@
 - 애자일 방법론이란 뭔가요?
 - 폭포수, 애자일 방법론 차이
 
+### [Cache](/ComputerScience/Cache.md)
+
+- 캐시란 무엇인가요?
+- 캐싱
+
 ## 자료구조
 
 ### [자료구조란?](/ComputerScience/Datatype.md)
