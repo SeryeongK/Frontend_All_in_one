@@ -118,9 +118,15 @@
 ### [함수와 일급객체](/Javascript/함수와%20일급객체.md)
 
 ### [프로토타입](/Javascript/프로토타입.md)
+
 - 객체지향 프로그래밍
 - 프로토타입
 
+### [this](/Javascipt/this.md)
+
+- this가 뭔가요?
+- this 바인딩이란?
+- this는 동적으로 바인딩이 된다고 하는데 바인딩되는 객체가 어떻게 다르나요?
 
 # React
 
@@ -136,12 +142,6 @@
 ### [함수 컴포넌트와 클래스 컴포넌트](./React/함수%20컴포넌트와%20클래스%20컴포넌트.md)
 
 ### [props와 state](/React/props와%20state.md)
-
-
-
-
-
-
 
 # HTML/CSS
 
