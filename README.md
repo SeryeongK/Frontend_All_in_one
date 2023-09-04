@@ -51,12 +51,6 @@
 - 캐시란 무엇인가요?
 - 캐싱
 
-## 자료구조
-
-### [자료구조란?](/ComputerScience/Datatype.md)
-
-- 효율적으로 데이터를 관리해야 하는 이유 (예시)
-
 ### [IT 비지니스 유형(IaaS, PaaS, SaaS)](</ComputerScience/IT%20비지니스%20유형(IaaS,%20PaaS,%20SaaS).md>)
 
 - IaaS
@@ -209,3 +203,11 @@
 - SVG 장점과 단점
 - SVG 내부 도형에 대해 아는게 있나요?
 - SVG CSS 스타일 지정방법
+
+## 자료구조
+
+### [자료구조란?](/ComputerScience/Datatype.md)
+
+- 효율적으로 데이터를 관리해야 하는 이유 (예시)
+
+### [배열](/DataStructure/배열.md)
