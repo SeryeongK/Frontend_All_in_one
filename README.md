@@ -139,6 +139,13 @@
 ### [클로저](/Javascript/클로저.md)
 
 ### [스프레드 문법](/Javascript/스프레드%20문법.md)
+
+### [이벤트](/Javascript/이벤트.md)
+- 이벤트 타입
+- 이벤트 핸들러 등록 방식
+- 이벤트 전파(propagation)
+- 이벤트 위임(delegation)
+
 # React
 
 ### [React 시작](/React/React-시작.md)
@@ -218,6 +225,8 @@
 - SVG CSS 스타일 지정방법
 
 ### [반응형 웹](./HTMLCSS/반응형%20웹.md)
+
+### [단위](/HTMLCSS/단위.md)
 
 # DataStructure
 
