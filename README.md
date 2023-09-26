@@ -136,6 +136,8 @@
 - this 바인딩이란?
 - this는 동적으로 바인딩이 된다고 하는데 바인딩되는 객체가 어떻게 다르나요?
 
+### [클로저](/Javascript/클로저.md)
+
 # React
 
 ### [React 시작](/React/React-시작.md)
