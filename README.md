@@ -57,6 +57,9 @@
 - Paas
 - Saas
 
+
+
+
 # JavaScript
 
 ### 프로그래밍
@@ -152,6 +155,11 @@
 
 ### [Flux](/React/Flux.md)
 
+### [상태 관리](/React/상태%20관리.md)
+- context API
+- 상태 관리 라이브러리
+- 이벤트 버스
+
 # HTML/CSS
 
 ## HTML
@@ -208,10 +216,11 @@
 
 ### [반응형 웹의 3요소](./HTMLCSS/반응형%20웹의%203요소.md)
 
-## 자료구조
+# DataStructure
 
 ### [자료구조란?](/ComputerScience/Datatype.md)
 
 - 효율적으로 데이터를 관리해야 하는 이유 (예시)
 
 ### [배열](/DataStructure/배열.md)
+### [트리](/DataStructure/트리.md)
