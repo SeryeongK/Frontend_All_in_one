@@ -57,8 +57,7 @@
 - Paas
 - Saas
 
-
-
+### [Test](/ComputerScience/test.md)
 
 # JavaScript
 
@@ -136,16 +135,6 @@
 - this 바인딩이란?
 - this는 동적으로 바인딩이 된다고 하는데 바인딩되는 객체가 어떻게 다르나요?
 
-### [클로저](/Javascript/클로저.md)
-
-### [스프레드 문법](/Javascript/스프레드%20문법.md)
-
-### [이벤트](/Javascript/이벤트.md)
-- 이벤트 타입
-- 이벤트 핸들러 등록 방식
-- 이벤트 전파(propagation)
-- 이벤트 위임(delegation)
-
 # React
 
 ### [React 시작](/React/React-시작.md)
@@ -166,6 +155,7 @@
 ### [Flux](/React/Flux.md)
 
 ### [상태 관리](/React/상태%20관리.md)
+
 - context API
 - 상태 관리 라이브러리
 - 이벤트 버스
@@ -235,4 +225,3 @@
 - 효율적으로 데이터를 관리해야 하는 이유 (예시)
 
 ### [배열](/DataStructure/배열.md)
-### [트리](/DataStructure/트리.md)
